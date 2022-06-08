@@ -19,3 +19,5 @@ ABBA MATHEWS , ALAN ANTO JOY , ALAN JOSE AND MALAVIKA NANDAGOPAN.
 :)
 
 ![alt text](https://github.com/alanjok7/FalconPhishingWebsiteDetection/blob/main/Screenshot%201.png?raw=true)
+![alt text](https://github.com/alanjok7/FalconPhishingWebsiteDetection/blob/main/Screenshot%202.png?raw=true)
+![alt text](https://github.com/alanjok7/FalconPhishingWebsiteDetection/blob/main/Screenshot%203.png?raw=true)
