@@ -18,4 +18,4 @@ CREDIT GOES TO :
 ABBA MATHEWS , ALAN ANTO JOY , ALAN JOSE AND MALAVIKA NANDAGOPAN.
 :)
 
-![Screenshot](Screenshot 1.png)
+![alt text](https://github.com/alanjok7/FalconPhishingWebsiteDetection/blob/main/Screenshot%201.png?raw=true)
